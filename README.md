@@ -1,8 +1,6 @@
 开发资源总结 (持续整理中)
 ===============
 
-这是对自己这几年开发的一个总结，各种项目、资源、书籍、博客等
-
 ## Web 前端
 
 #### Javascript
@@ -11,7 +9,6 @@
 + [zepto](https://github.com/madrobby/zepto): 用于现代浏览器的兼容 jQuery 的库
 + [totoro](https://github.com/totorojs/totoro): 稳定的跨浏览器测试工具
 + [TheaterJS](https://github.com/Zhouzi/TheaterJS): 一个用于模拟人输入状态的 JS 库
-+ [stellar.js](https://github.com/markdalgleish/stellar.js): 前端用于实现异步滚动效果的库，现已不再维护
 + [skrollr](https://github.com/Prinzhorn/skrollr): 另一款实现一步滚动的开源库，使用人数众多，可实现各种狂拽酷炫掉渣天的前端效果，[看真相](http://prinzhorn.github.io/skrollr/)
 + [Framework7](https://github.com/nolimits4web/Framework7): 前端框架，是开发人员可以基于 web 技术构建 IOS7 程序
 + [regulex](https://github.com/JexCheng/regulex): 用于生成 正则表达式 的可视化流程图
